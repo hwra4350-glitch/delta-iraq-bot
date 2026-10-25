@@ -1,0 +1,11 @@
+{
+  "name": "delta-iraq-hub",
+  "version": "3.0.0",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "【entity-axios¦canonical_name=axios】": "^1.6.7",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
